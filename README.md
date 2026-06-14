@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Dulfa N 👋
 
-<!--
-**dulfanechikkattil/dulfanechikkattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Data Analyst | AI & Data Science Student
 
-Here are some ideas to get you started:
+I am currently pursuing a Master Diploma in Artificial Intelligence & Data Science at G-TEC Centre of Excellence, Perinthalmanna.  
+I am interested in Data Analysis, Machine Learning, Business Intelligence, and real-world data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with me
+
+- Email: dhulfa34@gmail.com
+- LinkedIn: www.linkedin.com/in/dulfa-n
+- GitHub: github.com/dulfanechikkattil
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![R](https://img.shields.io/badge/R-blue?logo=r)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+![Excel](https://img.shields.io/badge/Excel-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-success)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Swasthya Alert – Disease Outbreak Prediction System
+Data science project for analyzing disease outbreak data using Python, SQL, Power BI, Tableau, and Machine Learning.
+
+### 🔹 Student Academic Performance Dashboard
+Created Power BI and Tableau dashboards to analyze student performance, attendance, and academic trends.
+
+### 🔹 Customer Segmentation
+Used clustering techniques to group customers and understand business patterns.
+
+### 🔹 Heart Disease Prediction
+Built a machine learning model to predict heart disease risk.
+
+---
+
+## 📊 GitHub Stats
+
+![Dulfa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulfanechikkattil&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulfanechikkattil&layout=compact&theme=tokyonight)

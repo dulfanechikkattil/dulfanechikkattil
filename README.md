@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="DULFA N (2).png" width="100%">
+</p>
+
+
 # Hi, I'm Dulfa N 👋
 
 ### Aspiring Data Scientist | Data Analyst | AI & Data Science Student

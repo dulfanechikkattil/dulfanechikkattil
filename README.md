@@ -21,7 +21,6 @@ Passionate about Data Analytics, Machine Learning, Business Intelligence, and Da
 
 ## 🛠 Languages and Tools
 
-## 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange)

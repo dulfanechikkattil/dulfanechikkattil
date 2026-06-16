@@ -42,31 +42,11 @@ Passionate about Data Analytics, Machine Learning, Business Intelligence, and Da
 
 ## 📌 Featured Projects
 
-### 🔹 Swasthya Alert – Disease Outbreak Analysis & Prediction
-
-Data science project for analyzing disease outbreak data using Python, SQL, Power BI, Tableau, and Machine Learning techniques.
-
-### 🔹 Amazon Review Sentiment Analysis
-
-Developed NLP and Deep Learning models to classify customer reviews and analyze sentiment patterns.
-
-### 🔹 Supermarket Sales Analysis using R
-
-Performed data cleaning, exploratory data analysis (EDA), data visualization, and regression modeling using R.
-
-### 🔹 Student Academic Performance Dashboard
-
-Created Power BI and Tableau dashboards to analyze student performance, attendance, and academic trends.
-
-### 🔹 Customer Segmentation
-
-Used clustering techniques to group customers and understand business patterns.
-
-### 🔹 Heart Disease Prediction
-
-Built a machine learning model to predict heart disease risk.
-
----
+- 🦠 Swasthya Alert – Disease Outbreak Analysis & Prediction
+- 💬 Amazon Review Sentiment Analysis
+- 🌿 Plant Disease Detection using CNN
+- 📊 Student Academic Performance Dashboard
+- 👥 Customer Segmentation
 
 ## 📊 GitHub Stats
 
